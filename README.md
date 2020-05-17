@@ -24,3 +24,4 @@ There is a Bitalino Open Signals Mobile app,  which should eventually work for r
 
 Bitalino can also be bought in parts. Costs for two devices in parts and build together yourself estimated 200 to 300 USD. Batteries for instance when bought from 3 th party seller are cheaper.
 
+Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ desktop applications available.
