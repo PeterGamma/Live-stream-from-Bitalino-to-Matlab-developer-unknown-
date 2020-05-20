@@ -24,4 +24,4 @@ There is a Bitalino Open Signals Mobile app,  which should eventually work for r
 
 Bitalino can also be bought in parts. Batteries and electrodes can be bought from 3 th party sellers, and can be soldered to the Bitalino board. A Bitalino Core with housing is ca 90 USD plus 10 USD battery and 10 USD ECG electrode from 3 th party seller gives a total fo ca 110 USD per device.
 
-Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ desktop applications available.
+Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ live stream desktop applications available.
