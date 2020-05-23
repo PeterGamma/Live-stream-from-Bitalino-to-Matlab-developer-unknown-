@@ -17,5 +17,3 @@ Bitalino offers real time recording to csv format
 https://books.google.ch/books?id=Hy7EDwAAQBAJ&pg=PA6&lpg=PA6&dq=bitalino+csv&source=bl&ots=VhnxUXPFuO&sig=ACfU3U26YsvcKWiznA7Oz3xOBrdEQZyW7g&hl=de&sa=X&ved=2ahUKEwiDo_W43rjpAhUs86YKHe1sBicQ6AEwB3oECAoQAQ#v=onepage&q=bitalino%20csv&f=false
 
 no conversion from intransparent Garmin .fit file format to csv, which is so complicated, that to my knowledge, nobody has demonstrated to do it by an automatic script procedure to this date.
-
-Bitalino uses Bluetooth or BLE soft- and hardware, Garmin uses ANT+ hardware. There is hardly any ANT+ live stream desktop applications available. Why does Garmin not offer a Bluetooth streaming option, like other devices do?
