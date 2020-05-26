@@ -1,4 +1,4 @@
-Why is a live stream from a Garmin watch to Matlab or Python so complicated
+Why is a live stream from a Garmin watch to Matlab or Python
 
 https://www.thisisant.com/forum/viewthread/7362/
 
