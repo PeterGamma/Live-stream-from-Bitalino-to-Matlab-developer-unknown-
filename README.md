@@ -27,3 +27,7 @@ https://www.mathworks.com/help/supportpkg/beagleboneblue/ref/counting-steps-usin
 But you probably need to have installed both Beagle Bone BLue and Software, before all links are working >:(
 
 https://www.mathworks.com/matlabcentral/answers/534838-broken-link-count-steps-using-mpu9250-sensor-of-beagleboneblue-hardware?s_tid=mlc_ans_email_view#comment_867918
+
+Ubunto can also run on Beaglebone 
+
+https://www.linux.org/threads/beaglebone-blue-and-black.26010/
