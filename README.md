@@ -1,3 +1,5 @@
+A. BITALINO
+
 Live stream from a Garmin watch to Matlab or Python
 
 https://www.thisisant.com/forum/viewthread/7362/
@@ -19,6 +21,8 @@ no conversion from Garmin .fit file format to csv necessary. To my knowledge, no
 Since live streaming from Garmin devices is not developed, Bitalino devices become very attractive. Instead of a Garmin foot pod, use a Bitalino foot pod
 
 https://forum.bitalino.com/viewtopic.php?f=1&t=576&p=2191#p2191
+
+B. BEAGLEBONE BLUE FOOT POD
 
 There is already an example in Matlab for step counting with the Beagle Bone Blue, which could also work as a real-time foot pod:
 
