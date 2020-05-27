@@ -19,3 +19,11 @@ no conversion from Garmin .fit file format to csv necessary. To my knowledge, no
 Since live streaming from Garmin devices is not developed, Bitalino devices become very attractive. Instead of a Garmin foot pod, use a Bitalino foot pod
 
 https://forum.bitalino.com/viewtopic.php?f=1&t=576&p=2191#p2191
+
+There is already an example in Matlab for step counting with the Beagle Bone Blue, which could also work as a real-time foot pod:
+
+https://www.mathworks.com/help/supportpkg/beagleboneblue/ref/counting-steps-using-beagleboneblue-hardware-example.html
+
+But you probably need to have installed both Beagle Bone BLue and Software, before all links are working >:(
+
+https://www.mathworks.com/matlabcentral/answers/534838-broken-link-count-steps-using-mpu9250-sensor-of-beagleboneblue-hardware?s_tid=mlc_ans_email_view#comment_867918
