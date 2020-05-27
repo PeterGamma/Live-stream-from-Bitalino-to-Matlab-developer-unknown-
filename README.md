@@ -22,7 +22,7 @@ Since live streaming from Garmin devices is not developed, Bitalino devices beco
 
 https://forum.bitalino.com/viewtopic.php?f=1&t=576&p=2191#p2191
 
-B. BEAGLEBONE BLUE FOOT POD
+B. BEAGLEBONE BLUE (FOOT POD)
 
 There is already an example in Matlab for step counting with the Beagle Bone Blue, which could also work as a real-time foot pod:
 
@@ -32,6 +32,3 @@ But you probably need to have installed both Beagle Bone BLue and Software, befo
 
 https://www.mathworks.com/matlabcentral/answers/534838-broken-link-count-steps-using-mpu9250-sensor-of-beagleboneblue-hardware?s_tid=mlc_ans_email_view#comment_867918
 
-Ubunto can also run on Beaglebone 
-
-https://www.linux.org/threads/beaglebone-blue-and-black.26010/
