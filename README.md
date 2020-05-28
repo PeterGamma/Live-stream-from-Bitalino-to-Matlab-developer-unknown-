@@ -18,7 +18,7 @@ https://books.google.ch/books?id=Hy7EDwAAQBAJ&pg=PA6&lpg=PA6&dq=bitalino+csv&sou
 
 no conversion from Garmin .fit file format to csv necessary. To my knowledge, nobody has demonstrated to do it by an automatic script procedure to this date.
 
-Since live streaming from Garmin devices is not developed, Bitalino devices become very attractive. Instead of a Garmin foot pod, use a Bitalino foot pod
+Since live streaming from Garmin devices is not developed, Bitalino devices become attractive. Instead of a Garmin foot pod, use a Bitalino foot pod
 
 https://forum.bitalino.com/viewtopic.php?f=1&t=576&p=2191#p2191
 
