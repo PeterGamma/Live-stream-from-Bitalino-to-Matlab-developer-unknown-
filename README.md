@@ -1,25 +1,25 @@
 BITALINO
 
-Live stream from a Garmin watch to Matlab or Python
+1. Live stream from a Garmin watch to Matlab or Python
 
 https://www.thisisant.com/forum/viewthread/7362/
 
-Live stram with Bitalino Biomedcal Toolkit 
+2. Live stream from Bitalino Biomedical Toolkit 
 
 https://www.mathworks.com/matlabcentral/fileexchange/53983-bitalino-toolbox
 
-Bitalino HeartBIT BT with direct bluetooth paring to Matlab is 190 Euros:
+3. Bitalino HeartBIT BT with direct bluetooth paring to Matlab is 190 Euros:
 
 https://plux.info/bundles/428-bitalino-revolution-heartbit-bt.html
 
-Bitalino offers real time recording to csv format
+4. Bitalino offers real time recording to csv format
 
 https://books.google.ch/books?id=Hy7EDwAAQBAJ&pg=PA6&lpg=PA6&dq=bitalino+csv&source=bl&ots=VhnxUXPFuO&sig=ACfU3U26YsvcKWiznA7Oz3xOBrdEQZyW7g&hl=de&sa=X&ved=2ahUKEwiDo_W43rjpAhUs86YKHe1sBicQ6AEwB3oECAoQAQ#v=onepage&q=bitalino%20csv&f=false
 
 no conversion from Garmin .fit file format to csv necessary. To my knowledge, nobody has demonstrated to do it by an automatic script procedure to this date.
 
-Since live streaming from Garmin devices is not developed, Bitalino devices become attractive.
+Live streaming from Garmin devices is for developers. There are little practical examples which demonstrates a working live stream from a Gamin watch.
 
-BItalino as a reference device to test the accuracy of sport watches:
+5. BItalino as a reference device to test the accuracy of sport watches:
 
 https://forum.bitalino.com/viewtopic.php?f=12&t=614
