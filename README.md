@@ -1,4 +1,4 @@
-A. BITALINO
+BITALINO
 
 Live stream from a Garmin watch to Matlab or Python
 
