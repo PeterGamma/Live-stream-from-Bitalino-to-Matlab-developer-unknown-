@@ -23,3 +23,6 @@ Live streaming from Garmin devices is for developers. There are little practical
 5. BItalino as a reference device to test the accuracy of sport watches:
 
 https://forum.bitalino.com/viewtopic.php?f=12&t=614
+
+6. OpenSignals has a LSL interface to other applications, LSL - OpenSignals - Plux, OpenSignals (r)evolution. Lab Streaming Layer Module Python Guide
+https://www.google.ch/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiFhdOF1-_pAhU2wcQBHfngBDIQFjACegQIAxAB&url=https%3A%2F%2Fwww.downloads.plux.info%2FOpenSignals%2FOpenSignals%2520LSL%2520Manual.pdf&usg=AOvVaw1mH_yiVkc8BtjLTf6h6PCr
