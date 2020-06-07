@@ -25,5 +25,6 @@ Live streaming from Garmin devices is for developers. There are little practical
 https://forum.bitalino.com/viewtopic.php?f=12&t=614
 
 6. OpenSignals has a LSL interface to other applications, LSL - OpenSignals - Plux, OpenSignals (r)evolution. Lab Streaming Layer Module Python Guide. It has also an option for TCP/IP to switch on
+
 https://downloads.plux.info/OpenSignals/opensignals_lsl_guide.zip
 
