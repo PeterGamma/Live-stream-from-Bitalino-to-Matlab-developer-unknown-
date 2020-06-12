@@ -1,3 +1,5 @@
+Potential developer: Vinod Patil
+
 BITALINO
 
 1. Live stream from a Garmin watch to Matlab or Python
