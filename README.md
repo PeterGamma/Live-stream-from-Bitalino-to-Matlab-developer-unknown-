@@ -1,4 +1,4 @@
-Potential developer: Vinod Patil
+Potential developer: Vinod Patil, India
 
 BITALINO
 
